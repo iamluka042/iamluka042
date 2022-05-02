@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain technology and solidity 
 - 🌱 I’m currently learning react and Solidity
 - 💞️ I’m looking to collaborate on web3 projects as i am enthusiastic about all things relating to the future of the internet(web3).
-- 📫 How to reach me iamluka024@gmail.com
+- 📫 Please send me a mail on iamluka042@gmail.com
 
 <!---
 iamluka042/iamluka042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
