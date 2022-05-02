@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamluka042
 - 👀 I’m interested in blockchain technology and solidity 
 - 🌱 I’m currently learning react and Solidity
-- 💞️ I’m looking to collaborate on web3 projects as i am a enthusiastic about all things relating to the future of the internet.
+- 💞️ I’m looking to collaborate on web3 projects as i am enthusiastic about all things relating to the future of the internet(web3).
 - 📫 How to reach me iamluka024@gmail.com
 
 <!---
